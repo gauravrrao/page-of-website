@@ -1,0 +1,38 @@
+.slider{
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(148, 148, 235);
+    transition: .4s;
+    border-radius: 34px;
+}
+.switch{
+    position: relative;
+    display: inline-block;
+    width: 40px;
+    height: 10px;
+    margin: 0 10px;
+}
+.switch input {display:none}
+
+.slider::before{
+    position: absolute;
+    content: "";
+    height: 20px;
+    width: 15px;
+    left:23px;
+    top:-5px;
+
+    background-color: blue;
+    transition: 0.4s;
+    border-radius: 50px;
+}
+.lastp{
+    font-size: 0.8rem;
+}
+.toogle{
+    margin-bottom: 0.8rem;
+}

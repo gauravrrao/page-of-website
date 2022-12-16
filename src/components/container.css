@@ -1,0 +1,49 @@
+.container{  
+    border: 1px solid grey;
+    width: 30rem;
+    height: 36rem;
+}
+.line{
+    border: 1.5px solid gray;
+    color: gray;
+    width: 15rem;
+}
+.upper-container{
+    display: flex;
+    justify-content: space-between;
+    height: 4rem;
+    align-items: center;
+    border-bottom: 1px solid grey;
+}
+.intro{
+    font-size: 0.8rem;
+    margin-left: 1rem;
+}
+.intro2{
+    font-size: 0.8rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+
+.sposition{
+    display: flex;
+    align-items: center;
+    padding: 0.2rem;
+    margin-left: 1rem;
+}
+.pt{
+    margin-left: 0.3rem;
+    margin-right: 1rem;
+}
+.upperfourth{
+    margin-top: 2rem;
+}
+.btn{
+    margin-left: 1rem;
+    margin-top: 1rem;
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 0.5rem;
+    border-radius: 2rem;
+}

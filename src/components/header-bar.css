@@ -1,0 +1,24 @@
+.header-bar{
+    display: flex;
+    color: white;
+    background-color: rgb(72, 72, 200);
+    height: 3rem;
+    cursor: default;
+}
+.hp{
+    margin-left: 1.5rem;
+    font-size: 0.8rem;
+}
+.hph{
+    
+    font-size: 0.8rem;
+    
+}
+.hphh{
+    border-bottom: 3px solid white;
+    width: 4.5rem;
+    margin-left: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,17 @@
+.header{
+    background-color: rgb(72, 72, 200);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 3.5rem;
+}
+
+.icon{
+    color: white;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.image{
+    height: 2rem;
+    
+}
